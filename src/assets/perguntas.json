@@ -1,0 +1,132 @@
+[
+    {
+      "prompt": "Quem sou eu?",
+      "options": ["ninguem", "todos e um só", "esqueci-me", "Vasco Palmeirim"],
+      "correct": "ninguem"
+    },
+    {
+      "prompt": "Qual é a capital de Portugal?",
+      "options": ["Lisboa", "Porto", "Coimbra", "Faro"],
+      "correct": "Lisboa"
+    },
+    {
+      "prompt": "Quem pintou a Mona Lisa?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Salvador Dalí"
+      ],
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "prompt": "Quantos planetas existem no sistema solar?",
+      "options": ["8", "9", "7", "10"],
+      "correct": "8"
+    },
+    {
+      "prompt": "Qual é o maior oceano do mundo?",
+      "options": [
+        "Oceano Atlântico",
+        "Oceano Pacífico",
+        "Oceano Índico",
+        "Oceano Ártico"
+      ],
+      "correct": "Oceano Pacífico"
+    },
+    {
+      "prompt": "Qual é a fórmula química da água?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "correct": "H2O"
+    },
+    {
+      "prompt": "Qual é o maior animal terrestre?",
+      "options": ["Elefante africano", "Baleia azul", "Girafa", "Hipopótamo"],
+      "correct": "Elefante africano"
+    },
+    {
+      "prompt": "Quem escreveu o livro \"Dom Quixote\"?",
+      "options": [
+        "Miguel de Cervantes",
+        "William Shakespeare",
+        "Fyodor Dostoevsky",
+        "Jane Austen"
+      ],
+      "correct": "Miguel de Cervantes"
+    },
+    {
+      "prompt": "Qual é a capital do Brasil?",
+      "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+      "correct": "Brasília"
+    },
+    {
+      "prompt": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "John F. Kennedy"
+      ],
+      "correct": "George Washington"
+    },
+    {
+      "prompt": "Qual é o país com a maior população do mundo?",
+      "options": ["Índia", "Estados Unidos", "China", "Brasil"],
+      "correct": "China"
+    },
+    {
+      "prompt": "Quem foi o cientista que formulou a teoria da relatividade?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileu Galilei",
+        "Stephen Hawking"
+      ],
+      "correct": "Albert Einstein"
+    },
+    {
+      "prompt": "Qual é a montanha mais alta do mundo?",
+      "options": [
+        "Monte Everest",
+        "Monte Kilimanjaro",
+        "Monte Fuji",
+        "Monte Aconcágua"
+      ],
+      "correct": "Monte Everest"
+    },
+    {
+      "prompt": "Quem foi o pintor do famoso quadro \"A Noite Estrelada\"?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Leonardo da Vinci",
+        "Salvador Dalí"
+      ],
+      "correct": "Vincent van Gogh"
+    },
+    {
+      "prompt": "Qual é a capital do Canadá?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correct": "Ottawa"
+    },
+    {
+      "prompt": "Qual é o maior deserto do mundo?",
+      "options": [
+        "Deserto do Saara",
+        "Deserto de Atacama",
+        "Deserto do Gobi",
+        "Deserto da Antártida"
+      ],
+      "correct": "Deserto do Saara"
+    },
+    {
+      "prompt": "Quem escreveu a peça de teatro \"Romeu e Julieta\"?",
+      "options": [
+        "William Shakespeare",
+        "Miguel de Cervantes",
+        "Oscar Wilde",
+        "Anton Chekhov"
+      ],
+      "correct": "William Shakespeare"
+    }
+  ]
